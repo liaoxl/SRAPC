@@ -3,7 +3,7 @@
 
 **Xiangli Liao**, Hongbo Xu, Yicong Zhou, Kunqian Li, Wenbing Tao, Qiuju Guo, Signal Processing, 2014
 
-	Abstract¡ª¡ªIn this paper, a new unsupervised segmentation method is proposed.
+	Abstract: In this paper, a new unsupervised segmentation method is proposed.
 	The method integrates the star shape prior of the image object with salient point 
 	detection algorithm. In the proposed method, the Harris salient point detection is first 
 	 applied to the color image to obtain the initial salient points. A regional contrast based 
