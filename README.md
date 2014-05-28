@@ -2,7 +2,7 @@
 =====
 
 	"Automatic image segmentation using salient key point extraction and star shape prior"
-	Xiangli Liao, Hongbo Xu, Yicong Zhou, Kunqian Li, Wenbing Tao, Qiuju Guo
+	Xiangli Liao, Hongbo Xu, Yicong Zhou, Kunqian Li, Wenbing Tao, Qiuju Guo, Liman Liu
 	In Signal Processing, 2014 (SCI, IF=1.851).
 
 ----
